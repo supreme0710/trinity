@@ -3,7 +3,7 @@
 module.exports = {
 	app: {
 		title: 'peter',
-		description: 'peter's, first project',
+		description: 'peter\'s, first project',
 		keywords: 'i, want, to, know'
 	},
 	port: process.env.PORT || 3000,

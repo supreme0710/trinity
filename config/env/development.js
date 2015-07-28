@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://localhost/peter-dev',
+	db: 'mongodb://52.69.150.162/peter-dev',
 	app: {
 		title: 'peter - Development Environment'
 	},
